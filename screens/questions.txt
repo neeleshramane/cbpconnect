@@ -1,0 +1,109 @@
+
+1)According to Ancient Mythology, who was the messenger of the gods?
+Olympus
+Hermes====
+Cleopatra
+Achilles
+
+2)Neil Alden Armstrong was an American astronaut and aeronautical engineer and the first person to walk on the Moon.Who was the second person to walk on the moon?
+Buzz Aldrin==========
+Charles Pete Conrad 
+James B. Irwin
+Alan B. Shepard Jr. 
+
+3)How many cards are there in a deck of Uno?
+99
+100
+108==========
+101
+
+4)In chess, the queen has the combined movement of which pieces?
+Both bishop and knight
+Both bishop and elephant =========
+bishop, knight and elephant
+None of the above
+
+5) From the Nursery rhymes,what did the “Three Little Kittens” lose?
+chickens
+mittens==========
+their rats
+buttons
+
+6)Which WWE Superstar & Hollywood Actor called himself “The Great-one” and “The People’s Champ”?
+John Cena
+Dwayne Johnson========
+Undertaker
+Great Khalli
+
+7) Who is often called the father of the computer?
+Bill Gates
+J.W. Wills
+Charles Babbage=========
+Aristotle
+
+8) Which planet is the hottest in the solar system?
+Mercury
+Venus=======
+Saturn
+Jupiter
+
+9)Which company owns Bugatti, Audi, Porsche, and Ducati?
+Lamborghini
+Volkswagen========
+Rolls-Royce Motor Cars
+Mazda 
+
+10)Which country invented tea?
+India
+China==========
+Britain
+Mongolia
+
+11)Which bone are babies born without?
+Collar
+Knee Cap========
+Femur
+Ankle
+
+12)Which original Avenger was not in the first few movies?
+The Wasp============
+Incredible Hulk
+Black Panther
+The Ant-Man
+
+13)What is the capital of New Zealand?
+Auckland
+Christchurch
+Wellington==========
+Hamilton
+
+14)Inside which HTML element do we put the JavaScript??
+<script>==================
+<javascript>
+<js>
+<scripting>
+
+15)What is the correct syntax for referring to an external script called 'home.js'?
+choice1: "<script href='xxx.js'>",
+    choice2: "<script name='xxx.js'>",
+    choice3: "<script src='xxx.js'>",=========
+    choice4: "<script file='xxx.js'>",
+
+16)question: " How do you write 'Hello World' in an alert box?",
+    choice1: "msgBox('Hello World');",
+    choice2: "alertBox('Hello World');",
+    choice3: "msg('Hello World');",
+    choice4: "alert('Hello World');",=======
+
+14 * 20 = 5min
+
+
+
+
+
+
+
+
+
+
+
